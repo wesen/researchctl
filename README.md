@@ -1,4 +1,4 @@
-# GO GO TEMPLATE
+# researchctl
 
 ```
  _______  _______    _______  _______ 

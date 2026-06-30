@@ -2,7 +2,7 @@
 
 ## Build Commands
 
-- Run a binary in XXX/YYY/FOOO: `go run ./XXX/YYY/FOOO` . Use this instead of build + ./XXX.
+- Run a binary in cmd/researchctl: `go run ./cmd/researchctl` . Use this instead of build + ./researchctl.
 - Build: `go build ./...`
 - Test: `go test ./...`
 - Run single test: `go test ./pkg/path/to/package -run TestName`
